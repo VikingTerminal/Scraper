@@ -1,2 +1,7 @@
-# Scaper
-This tool scrapes to obtain information from a website. Use without permission is considered illegal 
+📲 git clone https://github.com/VikingTerminal/Scraper
+
+📲 cd Scraper
+
+📠 chmod +x Scapervik.sh
+
+📲 ./Scapervik.sh
