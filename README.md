@@ -1,3 +1,5 @@
+BASH TOOL 💯
+
 📲 git clone https://github.com/VikingTerminal/Scraper
 
 📲 cd Scraper
@@ -7,6 +9,7 @@
 📲 ./Scapervik.sh
 
 -----------------------------------
+PYTHON TOOL 💯
 
 📲 git clone https://github.com/VikingTerminal/Scraper
 
